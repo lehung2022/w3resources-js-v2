@@ -1,0 +1,22 @@
+/* CSS styles in separate file (index.css) */
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding-top: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+#dateOutput {
+  font-size: 24px;
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 10px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  display: inline-block;
+}
